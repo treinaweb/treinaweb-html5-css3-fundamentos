@@ -1,4 +1,4 @@
-a { 
-    /* background-color: blue; */
+.meu-link, .outra-classe { 
+    background-color: blue;
     color: red; 
 }
