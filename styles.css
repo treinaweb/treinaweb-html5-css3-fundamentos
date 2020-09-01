@@ -1,4 +1,13 @@
-.meu-link, .outra-classe { 
-    background-color: blue;
-    color: red; 
+body{
+    /*background-color: rgb(50, 100, 20);*/
+    background-color: #7e1624;
+    /*background-color: #345CF3;*/
+}
+
+
+h1{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: 10px solid #35af46;
+    opacity: .7;
 }
