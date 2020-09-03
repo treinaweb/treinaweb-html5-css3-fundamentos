@@ -27,3 +27,13 @@
 .figura-artigo{
     text-align: center;
 }
+
+.indice{
+    margin: 1em 0;
+    padding: .2em .5em;
+    background-color: #f8f9fa;
+    border: solid 1px #eaecf0;
+    width: 50%;
+    min-width: 300px;
+    line-height: 1.8;
+}
