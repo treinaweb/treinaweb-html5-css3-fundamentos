@@ -2,9 +2,22 @@ body{
     margin: 0;
 }
 
+a{
+    color: #3366cc;
+}
+
+a:not(:hover){
+    text-decoration: none;
+}
+
 .cabecalho{
     padding: 12px 24px;
     background-color: #eaecf0;
+}
+
+.cabecalho-conteudo{
+    max-width: 40em;
+    margin: 0 auto;
 }
 
 .logo-figura{
